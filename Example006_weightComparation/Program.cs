@@ -1,8 +1,13 @@
 ﻿int a = 3;
+Console.WriteLine (a);
 int b = 7;
+Console.WriteLine (b);
 int c = 5;
+Console.WriteLine (c);
 int d = 9;
+Console.WriteLine (d);
 int e = 2;
+Console.WriteLine (e);
 
 int max = a;
 
