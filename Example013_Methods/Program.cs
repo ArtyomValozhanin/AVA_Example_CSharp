@@ -44,5 +44,3 @@ string Method4(int count, string text)
     }
     return result;
 }
-string res = Method4(10, "Автор текста...");
-Console.WriteLine(res);
