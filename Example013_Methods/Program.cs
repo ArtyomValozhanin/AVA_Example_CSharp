@@ -3,7 +3,7 @@ void Method1()
 {
     Console.WriteLine("Автор записи AVA");
 }
-Method1()
+Method1();
 
 // второй тип методов
 void Method2(string msg)
@@ -25,7 +25,7 @@ Method2(msg: "Текст сообщения");
 // // именнованную запись можно менять местами(!): Method2_1(count: 4, msg: "Text")
 
 // третий тип методов
-int Method3()
+int Method3();
 {
     return DateTime.Now.Year;
 }
